@@ -1,0 +1,1 @@
+This repository demonstrates how to run the Ollama LLM locally inside Google Colab, using the LLAMA3.2 model. It provides a minimal setup for experimenting with LLMs in an interactive cloud environment—ideal for quick prototyping, natural language querying
